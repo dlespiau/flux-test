@@ -20,7 +20,7 @@ spec:
         image: quay.io/damien.lespiau/quay-exporter:master-af0aabf
         args:
         # Try 'debug' when troubleshooting.
-        - -log-level=info
+        - -log-level=debug
         # The organisation you want to watch.
         - weaveworks
         ports:
