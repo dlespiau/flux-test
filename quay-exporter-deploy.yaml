@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: quay-exporter
-        image: quay.io/damien.lespiau/quay-exporter
+        image: quay.io/damien.lespiau/quay-exporter:master-af0aabf
         args:
         # Try 'debug' when troubleshooting.
         - -log-level=info
