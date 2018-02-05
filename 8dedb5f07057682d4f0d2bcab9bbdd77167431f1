@@ -1,0 +1,1 @@
+{"jobID":"6eea3fce-c1ee-2dd8-2937-dc26c25e270a","spec":{"type":"policy","cause":{"Message":"","User":"damien \u003cdamien@weave.works\u003e"},"spec":{"default:deployment/quay-exporter":{"add":{"automated":"true"},"remove":null}}},"result":null}
